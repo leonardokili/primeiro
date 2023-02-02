@@ -1,0 +1,13 @@
+body {
+    background: #f4f2a4;      /* red, yellow, green, #f1f2c5, etc */
+    color: chocolate;              /* red, yellow, green, #f1f2c5, etc */
+    font-size: 40px;          /* 0px - 100px and beyond */
+    font-weight: bold;        /* lighter, normal, bold */
+    text-align: center;       /* left, center, right */
+    margin-top: 40px;          /* From 0px and upwards */
+}
+
+img {
+    margin-top: 10px;
+
+}
